@@ -1,4 +1,4 @@
-# App
+# App with DOM
 JS en la Web: Manipulación del DOM con JavaScript
 
 En JavaScript:
