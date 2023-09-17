@@ -1,3 +1,4 @@
+( () => {
 const btn = document.querySelector("[data-form-btn]");
 
 // listener: el método que nos va a ayudar a generar un listener es AaddEventListener.
@@ -43,3 +44,5 @@ const completeTask = (event) => {
     element.classList.toggle('completeIncon');
     element.classList.toggle('far');
 };
+
+});
